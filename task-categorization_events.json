@@ -1,0 +1,67 @@
+{
+    "onset": {
+        "LongName": "",
+        "Description": "Onset of the sound/feedback",
+        "Units": "seconds"
+    },
+    "duration": {
+        "LongName": "",
+        "Description": "Duration of the sound/feedback",
+        "Units": "seconds"
+    },
+    "trial_type": {
+        "LongName": "",
+        "Description": "Sound or feedback",
+        "Levels": {
+            "sound": "sound",
+            "feedback": "feedback"
+        }
+    },
+    "structure": {
+        "LongName": "",
+        "Description": "The category structure",
+        "Levels": {
+            "ii": "information-integration",
+            "rb": "rule-based"
+        }
+    },
+    "category": {
+        "LongName": "",
+        "Description": "The category label",
+        "Levels": {
+            "1": "category 1",
+            "2": "category 2",
+            "3": "category 3",
+            "4": "category 4"
+        }
+    },
+    "item": {
+        "LongName": "",
+        "Description": "The sound ID (each sound has a unique ID)",
+        "Levels": ""
+    },
+    "stim.RESP": {
+        "LongName": "",
+        "Description": "Subjects' categorization responses",
+        "Levels": {
+            "1": "category 1",
+            "2": "category 2",
+            "3": "category 3",
+            "4": "category 4",
+            "0": "no response"
+        }
+    },
+    "stim.ACC": {
+        "LongName": "",
+        "Description": "The correctness of each categorization response",
+        "Levels": {
+            "1": "correct",
+            "0": "incorrect"
+        }
+    },
+    "stim.RT": {
+        "LongName": "reaction time",
+        "Description": "The categorization response time in each trial",
+        "Units": "seconds"
+    }
+}
