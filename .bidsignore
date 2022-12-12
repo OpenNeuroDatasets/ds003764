@@ -1,9 +1,0 @@
-*_not_bids.txt
-extra_data/
-
-{
-	"ignore": ["codes"],
-	"warn": [],
-	"error": [],
-	"ignoredFiles": []
-}
