@@ -2,5 +2,5 @@
 	"ignore": [],
 	"warn": [],
 	"error": [],
-        "ignoredFiles": ["/codes/**"]
+        "ignoredFiles": ["/derivatives/**"]
 }
