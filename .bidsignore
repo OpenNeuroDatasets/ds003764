@@ -1,6 +1,3 @@
 {
-	"ignore": [],
-	"warn": [],
-	"error": [],
-        "ignoredFiles": ["/derivatives/**"]
+	"ignoredFiles": ["/derivatives/**"]
 }
