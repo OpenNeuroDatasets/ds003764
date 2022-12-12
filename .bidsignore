@@ -2,5 +2,8 @@
 extra_data/
 
 {
- "ignoredFiles": ["/codes/**"]
+	"ignore": ["codes"],
+	"warn": [],
+	"error": [],
+	"ignoredFiles": []
 }
