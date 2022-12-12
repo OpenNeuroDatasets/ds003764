@@ -1,3 +1,6 @@
+*_not_bids.txt
+extra_data/
+
 {
- "ignoredFiles": ["/codes/stRSA_sl_LSS.m"]
+ "ignoredFiles": ["/codes/**"]
 }
