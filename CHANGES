@@ -1,3 +1,5 @@
+1.0.3 2022-12-13
+  - The dataset title has been changed
 1.0.2 2022-12-13
   - The event .tsv files has been added. The MATLAB code for stimulus generation has been added.
 1.0.1 2021-08-11
